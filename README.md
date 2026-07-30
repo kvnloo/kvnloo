@@ -1,8 +1,12 @@
 # Kevin Rajan
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b" alt="Profile animation" width="480" />
+</p>
+
 Builder in Chicago. AI systems, agent tooling, iOS/audio experiments, and a lot of building in public.
 
-**Build log:** [kvnloo.github.io/boplog](https://kvnloo.github.io/boplog/) · only public repos I’ve actually committed to
+**Build log:** [kvnloo.github.io/boplog](https://kvnloo.github.io/boplog/) · only public repos I've actually committed to
 
 ---
 
