@@ -35,7 +35,7 @@ I build at the intersection of engineering, intelligence, and human-centered des
 - **[Kerdoios](https://github.com/kvnloo/kerdoios)**: compute placement, budget awareness, and routing experiments.
 - **[bend-native](https://github.com/kvnloo/bend-native)**: proof-aware development tooling for Hermes and Bend.
 
-**Experiences that make possibility tangible**
+**Engineering Reality**
 
 - **[ACE](https://github.com/kvnloo/ace)**: a human-flourishing campus and digital-twin pretotype · [live site](https://kvnloo.github.io/ace/).
 - **[OpenPaw](https://github.com/kvnloo/openpaw)**: an early, evidence-first approach to canine behavior and wellbeing.
