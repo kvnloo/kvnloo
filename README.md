@@ -10,7 +10,7 @@
 
 The best tools fade into the background when we're in flow, widening the horizon of what we can explore, create, and become.
 
-I build at the intersection of engineering, intelligence, and human-centered design, creating tools that protect flow and expand the reach of human imagination.
+I build at the intersection of engineering, intelligence, and human-centered design, creating tools that protect flow and expand the reach of human potential.
 
 ### Where I focus in open source
 
